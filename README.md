@@ -5,7 +5,7 @@
 Thành viên:
 * [x] **1412316** Đặng Nhật Minh (DangNhatMinh96)
 * [x] **1412282** Nguyễn Hoàng Lân (tên tài khoản github)
-* [x] **1412269** Hà Mạnh Kiệt (tên tài khoản github)
+* [x] **1412269** Hà Mạnh Kiệt (KietHa)
 
 ## Yêu cầu
 
