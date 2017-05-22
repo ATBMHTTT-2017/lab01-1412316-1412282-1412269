@@ -4,7 +4,7 @@
 
 Thành viên:
 * [x] **1412316** Đặng Nhật Minh (DangNhatMinh96)
-* [x] **1412282** Nguyễn Hoàng Lân (tên tài khoản github)
+* [x] **1412282** Nguyễn Hoàng Lân (NguyenHoangLan)
 * [x] **1412269** Hà Mạnh Kiệt (KietHa)
 
 ## Yêu cầu
@@ -19,7 +19,7 @@ Yêu cầu **GIT**
 
 Yêu cầu **bắt buộc**
 * [ ] Viết script tạo cấu trúc cơ sở dữ liệu (**MSSV**)
-* [ ] Viết script thêm dữ liệu (**MSSV**)
+* [x] Viết script thêm dữ liệu (**1412282**)
 * [ ] Tạo tài khoản cho các nhân viên trong bảng Nhân Viên. Tên tài khoản trùng với mã nhân viên. Tạo ít nhất 5 tài khoản cho mỗi vị trí: trưởng dự án, trưởng phòng, trưởng chi nhánh, nhân viên, giám đốc và ít nhất 5 dòng cho các bảng dữ liệu còn lại. (**MSSV**)
 * [ ] Tạo các role cho các vị trí phù hợp cho công ty. (**MSSV**)
 * [ ] Chỉ trưởng phòng được phép cập nhật và thêm thông tin vào dự án (DAC). (**MSSV**)
